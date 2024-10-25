@@ -8,6 +8,9 @@ def list_to_dict():
 
 list_to_dict()
 print()
+
+
+#For converting dictionary to tuple
 def dict_to_tuple():
     keys=[1,2,3]
     values=["one","two","three"]
