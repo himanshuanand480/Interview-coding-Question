@@ -1,3 +1,5 @@
+"Q.Write a programe to remove the duplicates from the arrayu"
+
 arr=list(map(int,input("Enter the array: ").split()))
 arr1=set(arr)
 print(arr1)
