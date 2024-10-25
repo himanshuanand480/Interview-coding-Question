@@ -1,6 +1,5 @@
+"Write a programe to Obtain the last word from the given string"
 arr=input("Enter the sentence: ").split()
-#A=" Hi hima"
-#arr=A.split()
 def len_last_word(arr):
     size=len(arr)
     if size==1:
